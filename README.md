@@ -1,1 +1,1 @@
-Sou um profissional em Análise e Desenvolvimento de Sistemas, atualmente desenvolvi soluções tecnológicas eficientes, com experiência prática em JavaScript, bancos de dados e desenvolvimento web. Ao longo da minha carreira, implementei sistemas como o SAP e ministrei treinamentos, desenvolvendo minhas habilidades em gestão de projetos e resolução de problemas.
+
