@@ -13,7 +13,7 @@ Olá, 👋🏽 Eu me chamo **Alyson**!
   <summary>🔥 Mais sobre mim</summary>
 
   ```
-          Quando não estou aproveitando minha familia nas minhas horas vagas costumo praticas esportes como: 
+          Quando não estou aproveitando minha familia, nas minhas horas vagas costumo praticas esportes como: 
           boxe, karatê (sou faixax laranja) e academia.
   ```
 
