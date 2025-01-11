@@ -1,16 +1,68 @@
-## olá! sou o alyson 👋
+<!--- Latex Text Formatting https://latex-tutorial.com/symbols/text-formatting/  -->
+# $\color{#9693db}{\textbf{Alyson Marquez}}$ 🔥👨🏾‍💻
 
-<!--
-**alysonmarquez/alysonmarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alyson Profile Views](https://komarev.com/ghpvc/?username=alysonmarquez&color=9693db&style=flat-square)
 
-Here are some ideas to get you started:
+Olá, 👋🏽 Eu me chamo **Alyson**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** 👨🏽‍💻✨
+- :art: Prezo pela construção e automações de interfaces centradas no usuário e pela criação de soluções inovadoras.
+- :zap: Busco constantemente por conhecimento e aperfeiçoamento, sempre disposto a aprender novas tecnologias.
+- 📚 No momento estou aprendendo mais sobre automações e criações de bot com AI, alem de buscar cada vez mais conhecimentos em JavaScript que é minha linguagem primaria.
+<details>
+  <summary>🔥 Mais sobre mim</summary>
+
+  ```
+          Quando não estou aproveitando minha familia nas minhas horas vagas costumo praticas esportes como: 
+          boxe, karatê (sou faixax laranja) e academia.
+  ```
+
+  ```ruby
+  while alive
+    eat()
+    sleep()
+    code()
+    repeat()
+  end
+  ```
+</details>
+
+### 📲 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-marquez-pcd-78ba571a3/)
+
+
+
+### ⚒️ Habilidades
+
+#### Backend
+<!--- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### Frontend
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+#### IDEs 
+![Vs Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+
+#### Automações
+![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
+<!---
+### 🎯 GitHub Stats
 -->
+
+<!---
+### 🚀 Meus Principais Projetos Pessoais
+EM BREVE COLOCO TODOS...
+-->
+
+Made with 🔥 [Alyson](https://www.linkedin.com/in/alyson-marquez-pcd-78ba571a3/)!
