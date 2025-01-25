@@ -29,7 +29,7 @@ Olá, 👋🏽 Eu me chamo **Alyson**!
 
 ### 📲 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-marquez-pcd-78ba571a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyson-marquez-pcd/)
 
 
 
@@ -49,12 +49,17 @@ Olá, 👋🏽 Eu me chamo **Alyson**!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
+#### CMS & Ferramentas de Baixo Código
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/elementor-%23D21A4B.svg?style=for-the-badge&logo=elementor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Low-code](https://img.shields.io/badge/lowcode-%230077B5.svg?style=for-the-badge&logo=low-code&logoColor=white)
+
 #### IDEs 
 ![Vs Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
-#### Automações
-![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
+
 
 <!---
 ### 🎯 GitHub Stats
@@ -65,4 +70,4 @@ Olá, 👋🏽 Eu me chamo **Alyson**!
 EM BREVE COLOCO TODOS...
 -->
 
-Made with 🔥 [Alyson](https://www.linkedin.com/in/alyson-marquez-pcd-78ba571a3/)!
+Made with 🔥 [Alyson](https://www.linkedin.com/in/alyson-marquez-pcd/)!
