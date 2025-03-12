@@ -5,10 +5,10 @@
 
 Olá, 👋🏽 Eu me chamo **Alyson**!
 
-- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** 👨🏽‍💻✨
-- :art: Prezo pela construção e automações de interfaces centradas no usuário e pela criação de soluções inovadoras.
-- :zap: Busco constantemente por conhecimento e aperfeiçoamento, sempre disposto a aprender novas tecnologias.
-- 📚 No momento estou aprendendo mais sobre automações e criações de bot com AI, alem de buscar cada vez mais conhecimentos em JavaScript que é minha linguagem primaria.
+- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** 👨🏽‍💻✨
+- :art: Comprometido com a construção de sistemas robustos, escaláveis e de fácil manutenção, aplicando boas práticas de desenvolvimento e arquitetura de software.
+- :zap: Interessado em automação de processos e otimização de código, com foco em criar soluções eficientes e centradas no usuário.
+- 📚 Atualmente, estou aprofundando meus conhecimentos em JavaScript e C#, explorando conceitos de escalabilidade, engenharia de software e integração de sistemas.
 <details>
   <summary>🔥 Mais sobre mim</summary>
 
