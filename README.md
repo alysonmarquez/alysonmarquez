@@ -5,10 +5,11 @@
 
 Olá, 👋🏽 Eu me chamo **Alyson**!
 
-- 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Engenharia de Software** 👨🏽‍💻✨
-- :art: Comprometido com a construção de sistemas robustos, escaláveis e de fácil manutenção, aplicando boas práticas de desenvolvimento e arquitetura de software.
-- :zap: Interessado em automação de processos e otimização de código, com foco em criar soluções eficientes e centradas no usuário.
-- 📚 Atualmente, estou aprofundando meus conhecimentos em JavaScript e C#, explorando conceitos de escalabilidade, engenharia de software e integração de sistemas.
+- **Engenheiro de Software e Automação**, especializando em **automação de processos, RPA e integrações de sistemas**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente cursando **Engenharia em AI e Engenharia de Prompts**.  
+- 💼 Mais de **1,5 anos de experiência profissional**, desenvolvendo soluções escaláveis e automações de processos em diversas áreas.  
+- 🌐 Inglês: **B2 (intermediário)**  
+- 🤖 Apaixonado por **automatizar processos, integrar sistemas e criar soluções eficientes**, com foco em resultados e experiência do usuário.
 <details>
   <summary>🔥 Mais sobre mim</summary>
 
@@ -33,43 +34,39 @@ Olá, 👋🏽 Eu me chamo **Alyson**!
 
 
 
-### ⚒️ Habilidades
+### ⚒️ Skills
 
-#### Backend
-<!--- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=database&logoColor=white)
+#### Backend & Automação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-007ACC?style=for-the-badge&logo=serverless&logoColor=white)
 
-#### Frontend
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+#### Metodologias & Integrações
+![Scrum](https://img.shields.io/badge/Scrum-F7DF1E?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)
+![RPA](https://img.shields.io/badge/RPA-007ACC?style=for-the-badge&logo=robotframework&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF9900?style=for-the-badge)
 
-#### CMS & Ferramentas de Baixo Código
-![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/elementor-%23D21A4B.svg?style=for-the-badge&logo=elementor&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-%23000000.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Low-code](https://img.shields.io/badge/lowcode-%230077B5.svg?style=for-the-badge&logo=low-code&logoColor=white)
+#### BI & Data
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-867DB3?style=for-the-badge&logo=microsoft-vba&logoColor=white)
 
-#### IDEs 
-![Vs Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+#### CMS & Low-Code
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-D21A4B?style=for-the-badge&logo=elementor&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Low-code](https://img.shields.io/badge/Low%20Code-007ACC?style=for-the-badge)
+
+#### IDEs & Ferramentas
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 
-<!---
-### 🎯 GitHub Stats
--->
-
-<!---
-### 🚀 Meus Principais Projetos Pessoais
-EM BREVE COLOCO TODOS...
--->
 
 Made with 🔥 [Alyson](https://www.linkedin.com/in/alyson-marquez-pcd/)!
