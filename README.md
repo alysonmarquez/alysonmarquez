@@ -6,7 +6,7 @@
 Olá, 👋🏽 Eu me chamo **Alyson**!
 
 - **Engenheiro de Software e Automação**, especializando em **automação de processos, RPA e integrações de sistemas**
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**, atualmente cursando **Engenharia em AI e Engenharia de Prompts**.  
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**.  
 - 💼 Mais de **1,5 anos de experiência profissional**, desenvolvendo soluções escaláveis e automações de processos em diversas áreas.  
 - 🌐 Inglês: **B2 (intermediário)**  
 - 🤖 Apaixonado por **automatizar processos, integrar sistemas e criar soluções eficientes**, com foco em resultados e experiência do usuário.
