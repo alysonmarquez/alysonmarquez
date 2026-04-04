@@ -1,6 +1,4 @@
 <!--- Latex Text Formatting https://latex-tutorial.com/symbols/text-formatting/  -->
-# $\color{#9693db}{\textbf{Alyson Marquez}}$ 🔥👨🏾‍💻
-
 ![Alyson Profile Views](https://komarev.com/ghpvc/?username=alysonmarquez&color=9693db&style=flat-square)
 
 - **Software and Automation Engineer**, specializing in **process automation, RPA and systems integrations**
