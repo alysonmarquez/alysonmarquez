@@ -3,7 +3,7 @@
 
 - **Software and Automation Engineer**, specializing in **process automation, RPA and systems integrations**
 - 🎓 Graduated in **Systems Analysis and Development**.   
-- 🌐 English: **B2 (intermediary)**  
+- 🌐 English: **B2 (intermediary)** | Spanish: **B2 (intermediary)**
 - 🤖 Passionate about **automating processes, integrating systems, and creating efficient solutions**, with a focus on results and user experience.
 
 ## 🛠️ Main stack
