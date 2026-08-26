@@ -7,7 +7,7 @@
 - 🤖 Passionate about **automating processes, integrating systems, and creating efficient solutions**, with a focus on results and user experience.
 
 ## 🛠️ Main stack
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,javascript,TypeScript,angular,aws,postgresql,mysql,docker,mongodb,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,javascript,angular,aws,postgresql,mysql,docker,mongodb,)](https://skillicons.dev)
 
 ### 📲 Connect with me
 
